@@ -1,3 +1,4 @@
+<img src="https://github.com/olyamosunova/olyamosunova/blob/main/coder.gif" width="560px">
 
 <h2 style="margin-bottom: 1em;" align="center">Hi there 👋 I'm Olya</h2>
 
