@@ -1,16 +1,73 @@
-### Hi there 👋
+<div style="padding-top:71.765%;position:relative;">
+    <iframe src="https://gifer.com/embed/7SvE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+</div>
 
-<!--
-**olyamosunova/olyamosunova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi there 👋 I'm Olya</h2>
 
-Here are some ideas to get you started:
+```js
+document.write("Hi there 👋 I'm Olya");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+let myTechnologies = [
+    'React', 'Vue', 'Redux', 'JavaScript',
+    'Jquery', 'Gulp', 'Webpack', 'Git',
+    'Bootstrap', 'HTML', 'CSS'
+];
+
+let myStudyProjects = [
+    {
+        id: 0,
+        title: 'Test-exercise',
+        description: 'App with list of people, which you can filter and sort for some parameters',
+        technologies: 'React, Redux, TypeScript, Jest, Enzyme, Webpack',
+        linkToWatch: 'https://olyamosunova.github.io/chulakov-test/'
+    },
+    {
+        id: 1,
+        title: 'What to Watch',
+        description: 'Service about movies including ability to comment, rate and watch movie',
+        technologies: 'React, Redux, TypeScript, Jest, Enzyme, Webpack',
+        linkToWatch: ''
+    },
+    {
+        id: 2,
+        title: 'Cinemaddict',
+        description: 'Service about movies.',
+        technologies: 'JavaScript (ES5), Moment.js, Chart.js, Webpack',
+        linkToWatch: ''
+    },
+    {
+        id: 3,
+        title: 'Kekstagram',
+        description: 'Handmade toys shop prototype. Responsive layout, "mobile first" approach.',
+        technologies: 'JavaScript (ES5)',
+        linkToWatch: ''
+    },
+    {
+        id: 4,
+        title: 'Mishka',
+        description: 'Online ice cream shop prototype.',
+        technologies: 'HTML, SCSS, JavaScript (ES5), Gulp',
+        linkToWatch: ''
+    },
+    {
+        id: 5,
+        title: 'Gllacy',
+        description: 'Responsive prototype of an online ice cream shop.',
+        technologies: 'HTML, CSS, JavaScript (ES5)',
+        linkToWatch: ''
+    }
+];
+
+let myContacts = [
+    {
+        id: 0,
+        social: 'telegram',
+        link: '@vesnushkaaaa'
+    },
+    {
+        id: 0,
+        social: 'yandex',
+        link: 'olga.alexandrovna03@yandex.ru'
+    },
+];
+```
