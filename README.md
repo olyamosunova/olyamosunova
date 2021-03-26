@@ -1,8 +1,6 @@
-<div style="padding-top:71.765%;position:relative;">
-    <iframe src="https://gifer.com/embed/7SvE" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
-</div>
+<img src="https://i.gifer.com/7SvE.gif" width="560px">
 
-<h2 align="center">Hi there 👋 I'm Olya</h2>
+<h2 style="margin-bottom: 1em;" align="center">Hi there 👋 I'm Olya</h2>
 
 ```js
 document.write("Hi there 👋 I'm Olya");
