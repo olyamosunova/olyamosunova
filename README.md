@@ -1,4 +1,3 @@
-<img src="https://i.gifer.com/7SvE.gif" width="560px">
 
 <h2 style="margin-bottom: 1em;" align="center">Hi there 👋 I'm Olya</h2>
 
