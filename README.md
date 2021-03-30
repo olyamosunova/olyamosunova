@@ -12,62 +12,22 @@ let myTechnologies = [
     'Jquery', 'Gulp', 'Webpack', 'Git',
     'Bootstrap', 'HTML', 'CSS'
 ];
-
-let myStudyProjects = [
-    {
-        id: 0,
-        title: 'Test-exercise',
-        description: 'App with list of people, which you can filter and sort for some parameters',
-        technologies: 'React, Redux, TypeScript, Jest, Enzyme, Webpack',
-        linkToWatch: 'https://olyamosunova.github.io/chulakov-test/'
-    },
-    {
-        id: 1,
-        title: 'What to Watch',
-        description: 'Service about movies including ability to comment, rate and watch movie',
-        technologies: 'React, Redux, TypeScript, Jest, Enzyme, Webpack',
-        linkToWatch: ''
-    },
-    {
-        id: 2,
-        title: 'Cinemaddict',
-        description: 'Service about movies.',
-        technologies: 'JavaScript (ES5), Moment.js, Chart.js, Webpack',
-        linkToWatch: ''
-    },
-    {
-        id: 3,
-        title: 'Kekstagram',
-        description: 'Handmade toys shop prototype. Responsive layout, "mobile first" approach.',
-        technologies: 'JavaScript (ES5)',
-        linkToWatch: ''
-    },
-    {
-        id: 4,
-        title: 'Mishka',
-        description: 'Online ice cream shop prototype.',
-        technologies: 'HTML, SCSS, JavaScript (ES5), Gulp',
-        linkToWatch: ''
-    },
-    {
-        id: 5,
-        title: 'Gllacy',
-        description: 'Responsive prototype of an online ice cream shop.',
-        technologies: 'HTML, CSS, JavaScript (ES5)',
-        linkToWatch: ''
-    }
-];
-
-let myContacts = [
-    {
-        id: 0,
-        social: 'telegram',
-        link: '@vesnushkaaaa'
-    },
-    {
-        id: 0,
-        social: 'yandex',
-        link: 'olga.alexandrovna03@yandex.ru'
-    },
-];
 ```
+
+| Project name        | Deployed project        | Description          | Technologies  |
+| ------------- | ------------- | ------------- | ----- |
+| [Test-exercise](https://github.com/olyamosunova/chulakov-test) | [I want to see](https://olyamosunova.github.io/chulakov-test/) | App with list of people, which you can filter and sort for some parameters | React, Redux, Webpack, HTML, CSS |
+| [What to Watch](https://github.com/olyamosunova/1162533-what-to-watch-4) | [I want to see](https://what-to-watch-4-9d1drb6wr-vesnushka.vercel.app/) | Service about movies including ability to comment, rate and watch movie | React, Redux, TypeScript, Jest, Enzyme, Webpack |
+| [Cinemaddict](https://github.com/olyamosunova/1162533-cinemaddict-11) | [I want to see](https://olyamosunova.github.io/1162533-cinemaddict-11/) | Service about movies including ability to comment. | JavaScript (ES6), Moment.js, Chart.js, Webpack |
+| [Kekstagram](https://github.com/olyamosunova/1162533-kekstagram-19) | [I want to see](https://olyamosunova.github.io/1162533-kekstagram-19/) | Service with pictures, where you can upload your own photo and add different filter. | JavaScript (ES5) |
+| [Mishka](https://github.com/olyamosunova/mishka-htmlacademy) | [I want to see](https://olyamosunova.github.io/mishka-htmlacademy/) | Handmade toys shop prototype. Responsive layout, "mobile first" approach. | HTML, SCSS, JavaScript (ES5), Gulp |
+| [Gllacy](https://github.com/olyamosunova/htmlacademy_gllacy) | [I want to see](https://olyamosunova.github.io/htmlacademy_gllacy/) | Responsive prototype of an online ice cream shop. | HTML, CSS, JavaScript (ES5) |
+
+
+📫 My contacts:
+<p>
+    telegram: <a href="https://t.me/vesnushkaaaa">@vesnushkaaaa</a>
+</p>
+<p>
+    e-mail: <a href="olga.alexandrovna03@yandex.ru">olga.alexandrovna03@yandex.ru</a>
+</p>
