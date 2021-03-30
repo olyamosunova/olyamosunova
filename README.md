@@ -26,8 +26,8 @@ let myTechnologies = [
 
 📫 My contacts:
 <p>
-    telegram: <a href="https://t.me/vesnushkaaaa">@vesnushkaaaa</a>
+    telegram: <a href="https://t.me/vesnushkaaaa" target="_blank">@vesnushkaaaa</a>
 </p>
 <p>
-    e-mail: <a href="olga.alexandrovna03@yandex.ru">olga.alexandrovna03@yandex.ru</a>
+    e-mail: <a href="mailto:olga.alexandrovna03@yandex.ru">olga.alexandrovna03@yandex.ru</a>
 </p>
