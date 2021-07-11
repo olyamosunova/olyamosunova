@@ -8,7 +8,7 @@
 document.write("Hi there 👋 I'm Olya");
 
 let myTechnologies = [
-    'React', 'Vue', 'Redux', 'JavaScript',
+    'React', 'Vue', 'Vuex', 'Redux', 'JavaScript',
     'Jquery', 'Gulp', 'Webpack', 'Git',
     'Bootstrap', 'HTML', 'CSS'
 ];
