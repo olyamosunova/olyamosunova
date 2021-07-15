@@ -13,7 +13,7 @@ let myTechnologies = [
     'Bootstrap', 'HTML', 'CSS'
 ];
 ```
-
+| [posts-app-service](https://github.com/olyamosunova/postsapp) | [Watch](https://postsapp.vercel.app/posts) | App with list of posts, where you can delete/edit post and watch the comments | React, Redux, Webpack, HTML, CSS, CSS Modules |
 | Project name        | Deployed project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
 | [Chat-vue](https://github.com/olyamosunova/chat-vue) | [Watch](https://olyamosunova.github.io/chat-vue/) | Simulating a typical chat interface | Vue, Vuex, Vue CLI, HTML, CSS |
