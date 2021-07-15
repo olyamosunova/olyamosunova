@@ -16,7 +16,7 @@ let myTechnologies = [
 
 | Project name        | Deployed project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
-| [posts-app-service](https://github.com/olyamosunova/postsapp) | [Watch](https://postsapp.vercel.app/posts) | App with list of posts, where you can delete/edit post and watch the comments | React, Redux, TypeScript, Webpack, HTML, CSS, CSS Modules
+| [posts-app-service](https://github.com/olyamosunova/postsapp) | [Watch](https://postsapp.vercel.app/) | App with list of posts, where you can delete/edit post and watch the comments | React, Redux, TypeScript, Webpack, HTML, CSS, CSS Modules
 | [Chat-vue](https://github.com/olyamosunova/chat-vue) | [Watch](https://olyamosunova.github.io/chat-vue/) | Simulating a typical chat interface | Vue, Vuex, Vue CLI, HTML, CSS 
 | [Test-exercise](https://github.com/olyamosunova/chulakov-test) | [Watch](https://olyamosunova.github.io/chulakov-test/) | App with list of people, which you can filter and sort for some parameters | React, Redux, Webpack, HTML, CSS |
 | [Aviasales test](https://github.com/olyamosunova/aviasales_react) | [Watch](https://olyamosunova.github.io/aviasales_react/) | App imitates flight tickets search | React, Redux, HTML, CSS |
