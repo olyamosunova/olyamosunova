@@ -34,3 +34,5 @@ let myTechnologies = [
 <p>
     e-mail: <a href="mailto:olga.alexandrovna03@yandex.ru">olga.alexandrovna03@yandex.ru</a>
 </p>
+
+<a href="https://www.codewars.com/users/olyamosunova/"><img height="30" src="https://www.codewars.com/users/olyamosunova/badges/micro"></a>
