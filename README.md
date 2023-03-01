@@ -33,7 +33,7 @@ let myTechnologies = [
     telegram: <a href="https://t.me/vesnushkaaaa" target="_blank">@vesnushkaaaa</a>
 </p>
 <p>
-    e-mail: <a href="mailto:olga.alexandrovna03@yandex.ru">olga.alexandrovna03@yandex.ru</a>
+    e-mail: <a href="mailto:oamosunova@gmail.com">oamosunova@gmail.com</a>
 </p>
 
 <a href="https://www.codewars.com/users/olyamosunova/"><img height="30" src="https://www.codewars.com/users/olyamosunova/badges/micro"></a>
