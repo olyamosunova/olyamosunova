@@ -30,6 +30,9 @@ let myTechnologies = [
 
 📫 My contacts:
 <p>
+    linkedin: <a href="https://www.linkedin.com/in/olya-mosunova" target="_blank">linkedin.com/in/olya-mosunova</a>
+</p>
+<p>
     telegram: <a href="https://t.me/vesnushkaaaa" target="_blank">@vesnushkaaaa</a>
 </p>
 <p>
