@@ -17,6 +17,7 @@ let myTechnologies = [
 
 | Project name        | Deployed project        | Description          | Technologies  |
 | ------------- | ------------- | ------------- | ----- |
+| [pokemons-test](https://github.com/olyamosunova/kode_test) | [Watch](https://olyamosunova.github.io/kode_test) | App with list of pokemons, where you can filter pokemons, look at detail information | React, HTML, CSS
 | [posts-app-service](https://github.com/olyamosunova/postsapp) | [Watch](https://postsapp.vercel.app/) | App with list of posts, where you can delete/edit post and watch the comments | React, Redux, TypeScript, Webpack, HTML, CSS, CSS Modules
 | [Chat-vue](https://github.com/olyamosunova/chat-vue) | [Watch](https://olyamosunova.github.io/chat-vue/) | Simulating a typical chat interface | Vue, Vuex, Vue CLI, HTML, CSS 
 | [Test-exercise](https://github.com/olyamosunova/chulakov-test) | [Watch](https://olyamosunova.github.io/chulakov-test/) | App with list of people, which you can filter and sort for some parameters | React, Redux, Webpack, HTML, CSS |
